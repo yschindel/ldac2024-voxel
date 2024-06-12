@@ -1,0 +1,8 @@
+PREFIX ex: <http://example.org/>
+PREFIX dot: <http://www.semanticweb.org/dot/ontologies/2021/0/dot#> 
+PREFIX asb: <http://www.semanticweb.org/asb/ontologies/2021/0/asb#>
+
+SELECT ?voxel
+WHERE {
+  ?voxel dot:hasDamageArea ?damageArea .
+}

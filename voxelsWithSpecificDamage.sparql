@@ -1,0 +1,10 @@
+PREFIX ex: <http://example.org/>
+PREFIX dot: <http://www.semanticweb.org/dot/ontologies/2021/0/dot#> 
+PREFIX asb: <http://www.semanticweb.org/asb/ontologies/2021/0/asb#>
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?voxel
+WHERE {
+  ?voxel dot:hasDamageArea ?damageArea .
+	?damageArea asb:Schaden_ID-Nummer-Schaden "12"^^xsd:string .
+}

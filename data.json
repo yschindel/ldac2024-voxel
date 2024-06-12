@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "xPos": "2",
+        "yPos": "3",
+        "zPos": "4",
+        "xNeg": "5",
+        "yNeg": "6",
+        "zNeg": "7",
+        "bbox": {
+            "xMin": "1",
+            "xMax": "10",
+            "yMin": "1",
+            "yMax": "10",
+            "zMin": "1",
+            "zMax": "10"
+        },
+        "containsElement": "element-1"
+    },
+    {
+        "id": "2",
+        "xPos": "9",
+        "yPos": "9",
+        "zPos": "9",
+        "xNeg": "1",
+        "yNeg": "9",
+        "zNeg": "9",
+        "bbox": {
+            "xMin": "1",
+            "xMax": "10",
+            "yMin": "1",
+            "yMax": "10",
+            "zMin": "1",
+            "zMax": "10"
+        },
+        "containsElement": "element-1"
+    },
+    {
+        "id": "3",
+        "xPos": "9",
+        "yPos": "9",
+        "zPos": "9",
+        "xNeg": "1",
+        "yNeg": "9",
+        "zNeg": "9",
+        "bbox": {
+            "xMin": "1",
+            "xMax": "10",
+            "yMin": "1",
+            "yMax": "10",
+            "zMin": "1",
+            "zMax": "10"
+        },
+        "containsElement": "element-1"
+    },
+    {
+        "id": "4",
+        "xPos": "9",
+        "yPos": "9",
+        "zPos": "9",
+        "xNeg": "1",
+        "yNeg": "9",
+        "zNeg": "9",
+        "bbox": {
+            "xMin": "1",
+            "xMax": "10",
+            "yMin": "1",
+            "yMax": "10",
+            "zMin": "1",
+            "zMax": "10"
+        },
+        "containsElement": "element-1"
+    }
+]
